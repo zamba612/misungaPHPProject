@@ -1,0 +1,11 @@
+{
+    "name": "netas/mysqlphp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mantemo",
+            "email": "zambaapple@gmail.com"
+        }
+    ],
+    "require": {}
+}
